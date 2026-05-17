@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="430.0" y="38" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Language-wise Sentiment Analysis</text>
+<text x="70" y="100" text-anchor="middle" font-family="Arial" font-size="15">en</text>
+<rect x="140" y="78" width="560" height="26" fill="#f1f3f5"/>
+<rect x="140.0" y="78" width="298.7" height="26" fill="#d94c4c"/>
+<rect x="438.7" y="78" width="130.7" height="26" fill="#68707a"/>
+<rect x="569.3" y="78" width="130.7" height="26" fill="#2f9e66"/>
+<text x="720" y="97" font-family="Arial" font-size="14">30</text>
+<text x="70" y="144" text-anchor="middle" font-family="Arial" font-size="15">es</text>
+<rect x="140" y="122" width="560" height="26" fill="#f1f3f5"/>
+<rect x="140.0" y="122" width="560.0" height="26" fill="#d94c4c"/>
+<text x="720" y="141" font-family="Arial" font-size="14">30</text>
+<text x="70" y="188" text-anchor="middle" font-family="Arial" font-size="15">fr</text>
+<rect x="140" y="166" width="560" height="26" fill="#f1f3f5"/>
+<rect x="140.0" y="166" width="560.0" height="26" fill="#d94c4c"/>
+<text x="720" y="185" font-family="Arial" font-size="14">30</text>
+<text x="70" y="232" text-anchor="middle" font-family="Arial" font-size="15">hi</text>
+<rect x="140" y="210" width="560" height="26" fill="#f1f3f5"/>
+<rect x="140.0" y="210" width="560.0" height="26" fill="#d94c4c"/>
+<text x="720" y="229" font-family="Arial" font-size="14">30</text>
+<text x="70" y="276" text-anchor="middle" font-family="Arial" font-size="15">zh</text>
+<rect x="140" y="254" width="560" height="26" fill="#f1f3f5"/>
+<rect x="140.0" y="254" width="560.0" height="26" fill="#d94c4c"/>
+<text x="720" y="273" font-family="Arial" font-size="14">30</text>
+<rect x="220" y="298" width="16" height="16" fill="#d94c4c"/>
+<text x="242" y="312" font-family="Arial" font-size="14">Negative</text>
+<rect x="365" y="298" width="16" height="16" fill="#68707a"/>
+<text x="387" y="312" font-family="Arial" font-size="14">Neutral</text>
+<rect x="510" y="298" width="16" height="16" fill="#2f9e66"/>
+<text x="532" y="312" font-family="Arial" font-size="14">Positive</text>
+</svg>

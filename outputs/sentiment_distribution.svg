@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="380.0" y="38" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Sentiment Distribution</text>
+<line x1="90" y1="340" x2="720" y2="340" stroke="#2f3437"/>
+<line x1="90" y1="70" x2="90" y2="340" stroke="#2f3437"/>
+<rect x="90.0" y="90.0" width="194.0" height="250.0" fill="#d94c4c"/>
+<text x="187.0" y="82.0" text-anchor="middle" font-family="Arial" font-size="14">136</text>
+<text x="187.0" y="368" text-anchor="middle" font-family="Arial" font-size="14">Negative</text>
+<rect x="308.0" y="327.1" width="194.0" height="12.9" fill="#68707a"/>
+<text x="405.0" y="319.1" text-anchor="middle" font-family="Arial" font-size="14">7</text>
+<text x="405.0" y="368" text-anchor="middle" font-family="Arial" font-size="14">Neutral</text>
+<rect x="526.0" y="327.1" width="194.0" height="12.9" fill="#2f9e66"/>
+<text x="623.0" y="319.1" text-anchor="middle" font-family="Arial" font-size="14">7</text>
+<text x="623.0" y="368" text-anchor="middle" font-family="Arial" font-size="14">Positive</text>
+</svg>

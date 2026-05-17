@@ -1,0 +1,151 @@
+text,language,sentiment,sentiment_label
+Battery safety is a concern,en,1,Neutral
+Tesla battery recall is bad,en,0,Negative
+Tesla should improve battery quality,en,2,Positive
+EV battery issue is serious,en,0,Negative
+Battery safety is a concern,en,1,Neutral
+Tesla should improve battery quality,en,2,Positive
+Tesla should improve battery quality,en,2,Positive
+EV battery issue is serious,en,0,Negative
+Tesla battery recall is bad,en,0,Negative
+Tesla should improve battery quality,en,2,Positive
+Battery safety is a concern,en,1,Neutral
+EV battery issue is serious,en,0,Negative
+Battery safety is a concern,en,1,Neutral
+Tesla battery recall is bad,en,0,Negative
+EV battery issue is serious,en,0,Negative
+Battery safety is a concern,en,1,Neutral
+Battery safety is a concern,en,1,Neutral
+Battery safety is a concern,en,1,Neutral
+Tesla battery recall is bad,en,0,Negative
+EV battery issue is serious,en,0,Negative
+EV battery issue is serious,en,0,Negative
+EV battery issue is serious,en,0,Negative
+EV battery issue is serious,en,0,Negative
+Tesla should improve battery quality,en,2,Positive
+EV battery issue is serious,en,0,Negative
+EV battery issue is serious,en,0,Negative
+Tesla should improve battery quality,en,2,Positive
+Tesla battery recall is bad,en,0,Negative
+EV battery issue is serious,en,0,Negative
+Tesla should improve battery quality,en,2,Positive
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+ग्राहकों की सुरक्षा खतरे में है,hi,0,Negative
+ग्राहकों की सुरक्षा खतरे में है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+ग्राहकों की सुरक्षा खतरे में है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+ग्राहकों की सुरक्षा खतरे में है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+ग्राहकों की सुरक्षा खतरे में है,hi,0,Negative
+ग्राहकों की सुरक्षा खतरे में है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+टेस्ला बैटरी समस्या गंभीर है,hi,0,Negative
+ईवी बैटरी रिकॉल चिंता जनक है,hi,0,Negative
+ग्राहकों की सुरक्षा खतरे में है,hi,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+El problema de batería es grave,es,0,Negative
+La seguridad está en riesgo,es,0,Negative
+El problema de batería es grave,es,0,Negative
+El problema de batería es grave,es,0,Negative
+El problema de batería es grave,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+El problema de batería es grave,es,0,Negative
+El problema de batería es grave,es,0,Negative
+La seguridad está en riesgo,es,0,Negative
+El problema de batería es grave,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+La seguridad está en riesgo,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+La seguridad está en riesgo,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+La seguridad está en riesgo,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+La seguridad está en riesgo,es,0,Negative
+El problema de batería es grave,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+El problema de batería es grave,es,0,Negative
+El problema de batería es grave,es,0,Negative
+La seguridad está en riesgo,es,0,Negative
+La seguridad está en riesgo,es,0,Negative
+El retiro de Tesla preocupa,es,0,Negative
+El problema de batería es grave,es,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+La sécurité est en danger,fr,0,Negative
+La sécurité est en danger,fr,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+La sécurité est en danger,fr,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+La sécurité est en danger,fr,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+La sécurité est en danger,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+La sécurité est en danger,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+La sécurité est en danger,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+Le rappel Tesla inquiète,fr,0,Negative
+La sécurité est en danger,fr,0,Negative
+La sécurité est en danger,fr,0,Negative
+Le problème de batterie est grave,fr,0,Negative
+安全风险增加,zh,0,Negative
+特斯拉召回令人担忧,zh,0,Negative
+电池问题很严重,zh,0,Negative
+特斯拉召回令人担忧,zh,0,Negative
+安全风险增加,zh,0,Negative
+电池问题很严重,zh,0,Negative
+安全风险增加,zh,0,Negative
+特斯拉召回令人担忧,zh,0,Negative
+安全风险增加,zh,0,Negative
+安全风险增加,zh,0,Negative
+安全风险增加,zh,0,Negative
+安全风险增加,zh,0,Negative
+电池问题很严重,zh,0,Negative
+安全风险增加,zh,0,Negative
+安全风险增加,zh,0,Negative
+特斯拉召回令人担忧,zh,0,Negative
+安全风险增加,zh,0,Negative
+特斯拉召回令人担忧,zh,0,Negative
+安全风险增加,zh,0,Negative
+安全风险增加,zh,0,Negative
+安全风险增加,zh,0,Negative
+安全风险增加,zh,0,Negative
+电池问题很严重,zh,0,Negative
+安全风险增加,zh,0,Negative
+电池问题很严重,zh,0,Negative
+电池问题很严重,zh,0,Negative
+安全风险增加,zh,0,Negative
+安全风险增加,zh,0,Negative
+安全风险增加,zh,0,Negative
+电池问题很严重,zh,0,Negative

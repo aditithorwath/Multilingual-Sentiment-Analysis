@@ -1,0 +1,17 @@
+EV/Tesla Battery Sentiment Analysis Summary
+
+Total records analyzed: 150
+Languages included: en, es, fr, hi, zh
+Dominant sentiment: Negative
+
+Overall sentiment counts:
+- Negative: 136
+- Neutral: 7
+- Positive: 7
+
+Language-wise sentiment counts:
+- en: Negative: 16, Neutral: 7, Positive: 7
+- es: Negative: 30, Neutral: 0, Positive: 0
+- fr: Negative: 30, Neutral: 0, Positive: 0
+- hi: Negative: 30, Neutral: 0, Positive: 0
+- zh: Negative: 30, Neutral: 0, Positive: 0
